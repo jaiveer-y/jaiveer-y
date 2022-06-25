@@ -1,7 +1,7 @@
 ### Hi there, I'm Jaiveer - aka [BORN LEADER] 👋
 
 [![Website](https://img.shields.io/website?label=Jaiveer&style=for-the-badge&url=https%3A%2F%2Fjaiveer.xyz/)](https://jaiveer.xyz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Jaiveer_y)
+
 
 ## I'm a Developer!!
 
@@ -13,6 +13,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Jaiveer" width="350" />](https://open.spotify.com/user/jaiveer_y)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2o9S1YO4HHSeMMyIWAg6YY?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 ### Connect with me:
 
