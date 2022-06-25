@@ -10,9 +10,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play digital games and dance
 
-### Spotify Playing 🎧
-
-[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2o9S1YO4HHSeMMyIWAg6YY?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>](https://open.spotify.com/playlist/2o9S1YO4HHSeMMyIWAg6YY?si=58467acd782f4158)
 
 ### Connect with me:
 
