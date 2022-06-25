@@ -13,7 +13,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Jaiveer" width="350" />](https://open.spotify.com/user/jaiveer_y)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2o9S1YO4HHSeMMyIWAg6YY?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+[<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2o9S1YO4HHSeMMyIWAg6YY?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>]
 
 ### Connect with me:
 
