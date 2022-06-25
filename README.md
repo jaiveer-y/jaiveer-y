@@ -50,6 +50,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Jaiveer's GitHub Stats" src="https://github-readme-stats.jaiveer-y.vercel.app/api?username=jaiveer_y&show_icons=true&hide_border=true" />
+  <img align="left" alt="Jaiveer's GitHub Stats" src="https://github-readme-stats.jaiveer-y.vercel.app/api?username=jaiveer-y&show_icons=true&hide_border=true" />
 
 </details>
