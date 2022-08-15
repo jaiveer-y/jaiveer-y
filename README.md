@@ -53,3 +53,5 @@
   <img align="left" alt="Jaiveer's GitHub Stats" src="https://github-readme-stats.jaiveer-y.vercel.app/api?username=jaiveer-y&show_icons=true&hide_border=true" />
 
 </details>
+
+[![Jaiveer's github stats](https://github-readme-stats.vercel.app/api?username=jaiveer-y&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/jaiveer-y/github-readme-stats)
