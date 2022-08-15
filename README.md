@@ -1,9 +1,9 @@
 ### Hi there, I'm Jaiveer - aka [BORN LEADER] 👋
 
-[![Website](https://img.shields.io/website?label=Jaiveer&style=for-the-badge&url=https%3A%2F%2Fjaiveer.xyz/)](https://jaiveer.xyz)
+[![Website](https://img.shields.io/website?label=Jaiveer&style=for-the-badge&url=https%3A%2F%2Fjaiveer.xyz/)](https://jaiveer.tech)
 
 
-## I'm a Developer!!
+## I'm a Software Engineer!!
 
 - 🌱 I’m currently learning everything XD😉
 - 👯 I’m looking to collaborate with other content creators
@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-<img align="left" alt="Jaiveer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="Jaiveer yadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<a href="https://www.linkedin.com/in/jaiveer-yadav-8098a6210/"><img align="left" alt="Jaiveer yadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<img align="left" alt="Dev.Jaiveer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a target="_blank" href="https://jaiveer.tech"><img align="left" alt="Jaiveer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a target="_blank" href="https://twitter.com/jaiveer_y"><img align="left" alt="Jaiveer yadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/jaiveer-yadav-8098a6210/"><img align="left" alt="Jaiveer yadav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a target="_blank" href="https://www.instagram.com/jaiveer__y/"><img align="left" alt="Dev.Jaiveer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
 
 <br />
 
@@ -44,7 +44,7 @@
 
 ---
 
-### I trade in crypto too.
+### I am also a crpto and forex trader.
 
 
 <details>
