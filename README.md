@@ -54,5 +54,4 @@
 
 </details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiveer-y)](https://github.com/jaiveer-y/github-readme-stats)
-
 [![Jaiveer's github stats](https://github-readme-stats.vercel.app/api?username=jaiveer-y&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/jaiveer-y/github-readme-stats)
